@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Luiza Vieira 
 
-## Desenvolvedor Back-End 🚀
+## Desenvolvedora Back-End 🚀
 Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** e trabalhando em vários projetos, desde aplicativos web até sistemas completos. Focado em desenvolvimento backend com Java, Spring Boot, Azure e AWS.
 
 - 🔭 Hoje trabalho com back-end
