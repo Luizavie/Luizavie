@@ -16,7 +16,7 @@ Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** e trabalhan
 ## Linguagens e Frameworks que eu uso
 <div>
   
-  [![SkillIcons](https://skillicons.dev/icons?i=,html,css,mongodb,docker,aws,java,figma)](https://skillicons.dev)<br/>
+  [![SkillIcons](https://skillicons.dev/icons?i=,html,css,mongodb,docker,aws,azure,java,figma)](https://skillicons.dev)<br/>
 </div>
 
 ## Redes Sociais
