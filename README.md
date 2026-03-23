@@ -7,6 +7,12 @@ Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** e trabalhan
 - 🌱 Estudando Java e API's
 - 😄 Pronouns: she/her
 
+
+## Projetos Feitos
+
+[Entrelinhas](https://github.com/victoria-dev0/entrelinhas)
+
+
 ## Linguagens e Frameworks que eu uso
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
