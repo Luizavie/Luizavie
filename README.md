@@ -8,7 +8,7 @@ Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** e trabalhan
 - 😄 Pronouns: she/her
 
 
-## Projetos Feitos
+## Projetos Feitos 💼
 
 [Entrelinhas](https://github.com/victoria-dev0/entrelinhas)
 
