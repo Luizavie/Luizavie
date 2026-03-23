@@ -14,8 +14,9 @@ Atualmente estou cursando **Análise e Desenvolvimento de Sistemas** e trabalhan
 
 
 ## Linguagens e Frameworks que eu uso
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+<div>
+  
+  [![SkillIcons](https://skillicons.dev/icons?i=,html,css,mongodb,docker,aws,java,figma)](https://skillicons.dev)<br/>
 </div>
 
 ## Redes Sociais
